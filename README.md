@@ -18,3 +18,7 @@ Visit app :
  https://localhost:3000
 
 # Screenshots
+![Screenshot from 2023-12-11 19-34-16](https://github.com/vidhiksimform/cryptohunter-typescript/assets/124234774/6ed10668-8776-4a08-9446-adf1c7f622a5)
+
+
+![Screenshot from 2023-12-11 19-34-31](https://github.com/vidhiksimform/cryptohunter-typescript/assets/124234774/5dc1828d-10ba-499c-bbef-157aad8b057d)
