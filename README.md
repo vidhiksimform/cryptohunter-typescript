@@ -1,8 +1,20 @@
-# React + Vite
+# Cryptohunter practical with React + Typescript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+As a part of completion of typescript goal I have created a POC with React + Typescript. 
 
-Currently, two official plugins are available:
+# Demo Link
+https://dev--cryptohunter-typescript.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation and setup instruction
+Clone down this repository. You will need [node](https://nodejs.org/en) and [npm](https://www.npmjs.com/) installed globally on your machine.
+
+Installation : 
+ ` npm install`
+
+To run locally :
+ `npm run dev`
+
+Visit app : 
+ https://localhost:3000
+
+# Screenshots
